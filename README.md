@@ -1,5 +1,5 @@
 # GenvisResto
 
-GenvisResto adalah website pemesanan makanan khas Jepang. Website ini dibuat dengan menggunakan framework Codeigniter 3.
+GenvisResto adalah website pemesanan makanan khas Jepang. Website ini dibuat dengan menggunakan bahasa PHP
 
 http://restoranutsif430-genvisresto.lovestoblog.com/
